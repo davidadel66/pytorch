@@ -15,3 +15,5 @@ Welcome to the Deep Learning Tutorial Series! In this repository, you'll find a 
 
 To get started, clone this repository to your local machine:
 
+# References
+Some of the tutorials are pulled directly from the official PyTorch Tutorial notebooks
